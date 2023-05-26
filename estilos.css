@@ -1,0 +1,422 @@
+/*AQUI INICIA EL ESTILO DE LA LETRA DE TODA LA PAGINA*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+/*AQUI TERMINA EL ESTILO DE LA LETRA DE TODA LA PAGINA*/
+
+
+/*AQUI INICIA EL ESTILO DEL CUERPO DE LA PAGINA*/
+body {
+    background-image: url(img/fondodelapaginaa.jpg);
+}
+
+/*AQUI TERMINA EL ESTILO DEL CUERPO DE LA PAGINA*/
+
+
+/*AQUI INICIA EL ESTILO DEL TITULO UNIVERSO*/
+header:hover {
+    padding: 5px;
+    box-shadow: 0 0 5px 5px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TITULO UNIVERSO*/
+
+
+/*AQUI INICIA EL CODIGO DE LOS ENLACES DE LA DERECHA*/
+.sol {
+    padding: 2px;
+    width: 41px;
+    border-radius: 5px;
+    margin-left: 94%;
+    bottom: 55%;
+    position: fixed;
+}
+
+.imagensol {
+    width: 49px;
+}
+
+.tierra {
+    padding: 2px;
+    width: 41px;
+    border-radius: 5px;
+    margin-left: 94%;
+    bottom: 39%;
+    position: fixed;
+}
+
+.luna {
+    padding: 2px;
+    width: 41px;
+    border-radius: 5px;
+    margin-left: 94%;
+    bottom: 23%;
+    position: fixed;
+}
+
+.buttom {
+    padding: 2px;
+    width: 41px;
+    border-radius: 5px;
+    margin-left: 94%;
+    bottom: 0px;
+    position: fixed;
+}
+
+/*AQUI TERMINA EL ESTILO DE LOS ENLACES DE LA DERECHA*/
+
+
+/*AQUI INICIA EL ESTILO DE ALGUNAS DE LAS IMAGENES DE LA PAGINA*/
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    padding: 3px;
+}
+
+/*AQUI TERMINA EL ESTILO DE LAS IMAGENS EN LA PAGINA*/
+
+
+/*AQUI SE QUITO EL ESTILO DE LA OL*/
+ol {
+    list-style: none;
+}
+
+/*AQUI TERMINA EL ESTILO DE LA OL*/
+
+
+/*AQUI INICIA EL PRIMER CONTENEDOR DE LOS TIOS DE GALAXIAS*/
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen1 {
+    padding: 10px;
+    width: 26%;
+}
+
+.imagen1:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.imagen2 {
+    padding: 10px;
+    width: 26%;
+    margin-left: 300px;
+}
+
+.imagen2:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL PRIMER CONTENDOR DE LOS TIPOS DE GALAXIAS*/
+
+
+/*AQUI INICA EL ESTILO DEL SEGUNDO CONTENDOR DE LOS TIPOS DE GALAXIAS*/
+.contenedor2 {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen3 {
+    padding: 10px;
+    width: 26%;
+}
+
+.imagen3:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.imagen4 {
+    padding: 10px;
+    width: 26%;
+    margin-left: 300px;
+}
+
+.imagen4:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+/*AQUI TEERMINA EL ESTILO DEL SEGUNDO CONTENEDOR DE LOS TIPOS DE GALAXIAS*/
+
+
+/*AQUI INICA EL ESTILO DEL TITULO2*/
+.titulo2 {
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.titulo2:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TITULO2*/
+
+
+/*AQUI INICA EL ESTILO DE LOS TEXTOS DEL TITULO2*/
+.contenedor6 {
+    padding: 5px;
+    box-shadow: -2px -2px 0px;
+}
+
+.contenedor7 {
+    padding: 5px;
+    box-shadow: -2px -2px 0px;
+}
+
+.contenedor8 {
+    padding: 5px;
+    box-shadow: -2px -2px 0px;
+}
+
+.imagen12 {
+    width: 200px;
+    height: 190px;
+}
+
+.imagen13 {
+    width: 200px;
+    height: 190px;
+    margin-left: 200px;
+}
+
+/*AQUI TERMINA EL ESTILO DE LOS TEXTOS DEL TITULO2*/
+
+
+/*AQUI INICIA EL ESTILO DEL TITULO3*/
+.contenedor3 {
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.contenedor3:hover {
+    box-shadow: 0 0 5px 5px;
+    background-color: red;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TITULO3*/
+
+
+/*AQUI INICA EL ESTILO DE LOS TEXTOS DEL TITULO3*/
+.contenedor4 {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen6 {
+    padding: 10px;
+    width: 26%;
+}
+
+.imagen6:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.imagen7 {
+    padding: 10px;
+    width: 26%;
+    margin-left: 300px;
+}
+
+.imagen7:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.contenedor5 {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen9 {
+    padding: 10px;
+    width: 26%;
+}
+
+.imagen9:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.imagen10 {
+    padding: 10px;
+    width: 26%;
+    margin-left: 300px;
+}
+
+.imagen10:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+.imagen8 {
+    padding: 15px;
+    width: 550px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.img8 {
+    width: 200px;
+}
+
+/*AQUI TERMINA EL ESTILO DE LOSTEXTOS DEL TITULO3*/
+
+
+/*AQUI INICA EL ESTILO DEL TITULO ESTRELLAS*/
+.titulo3 {
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.titulo3:hover {
+    box-shadow: 0 0 5PX 5px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TITULO ESTRELLAS*/
+
+
+/*AQUI INICA EL ESTILO DEL TEXTO DEL TITULO ESTRELLAS*/
+.parrafo5 {
+    padding: 10px;
+    background-image: url(img/imagen19.jpg);
+    box-shadow: 4px 4px;
+    border-radius: 20px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TEXTO DEL TITULO ESTRELLAS*/
+
+
+/*AQUI INICA EL ESTILO DEL TIULO CIONSTELACIONES*/
+.titulo {
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.titulo:hover {
+    box-shadow: 0 0 5px 5px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TTULO CONSTELACIONES*/
+
+
+/*AQUI INICA EL ESTILO DEL TEXTO CONSTELACIONES*/
+.parrafo1 {
+    padding: 5px;
+    box-shadow: 0 2px 2px;
+}
+
+.parrafo2 {
+    padding: 5px;
+    box-shadow: 0 2px 2px;
+}
+
+.parrafo3 {
+    padding: 5px;
+    box-shadow: 0 2px 2px;
+}
+
+.parrafo4 {
+    padding: 5px;
+    box-shadow: 0 2px 2px;
+}
+
+.imagencons {
+    padding: 5px;
+    box-shadow: 0 2px 2px;
+}
+
+.imagen11 {
+    width: 500px;
+    height: 350px;
+}
+
+/*AQUI TERMINA EL ESTILO DEL TEXTO CONSTELCAIONES*/
+
+
+/*AQUI INICIA EL ESTILO DEL SISTEMA SOLAR CON LA TIERRA Y LA LUNA*/
+.body {
+    margin: 0;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: none;
+    overflow: hidden;
+}
+
+.container {
+    font-size: 10px;
+    width: 40em;
+    height: 40em;
+    position: relative;
+}
+
+.sun {
+    position: absolute;
+    top: 15em;
+    left: 15em;
+    width: 10em;
+    height: 10em;
+    background-color: yellow;
+    border-radius: 50%;
+    box-shadow: 0 0 3em white;
+}
+
+.earht,
+.moon {
+    position: absolute;
+    border-style: solid;
+    border-color: white transparent transparent transparent;
+    border-width: 0.1em 0.1em 0 0;
+    border-radius: 50%;
+}
+
+.earht {
+    top: 5em;
+    left: 5em;
+    width: 30em;
+    height: 30em;
+    animation: orbit 36.5s linear infinite;
+}
+
+.moon {
+    top: 0;
+    right: 0;
+    width: 8em;
+    height: 8em;
+    animation: orbit 2.7s linear infinite;
+}
+
+.earht::before,
+.moon::before {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+}
+
+.earht::before {
+    top: 2.8em;
+    right: 2.8em;
+    width: 3em;
+    height: 3em;
+    background-color: aqua;
+}
+
+.moon::before {
+    top: 0.8em;
+    right: 0.1em;
+    width: 1.2em;
+    height: 1.2em;
+    background-color: silver;
+}
+
+@keyframes orbit {
+    to {
+        transform: rotate(350deg);
+    }
+}
+
+/*AQUI TERMINA EL ESTILO DEL SISTEMA SOLAR CON LA TIERRA Y LA LUNA*/
